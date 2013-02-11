@@ -1,0 +1,8 @@
+$first_var = "tea" ;
+print $first_var ;
+$newvar = "ed" ;
+if ( $newvar == "ed" ) {
+print "does";
+}else{
+print "doesnt";
+}
