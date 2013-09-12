@@ -1,3 +1,4 @@
+//some sort of php script
 $first_var = "tea" ;
 print $first_var ;
 $newvar = "ed" ;
